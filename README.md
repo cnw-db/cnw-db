@@ -15,9 +15,7 @@
 ---
 
 ## 🚀 Projects
-- **[WhiteShadow-MD Bot](https://github.com/cnw-db/WhiteShadow-MD)** - WhatsApp bot with Sinhala movie search & TikTok booster  
-- **[VVIP Movie Hub](https://github.com/cnw-db/VVIP-Movie-Hub)** - Full-featured movie & TV series portal  
-- **[Gemini AI Assistant](https://github.com/cnw-db/Gemini-AI-Assistant)** - GPT API powered AI assistant  
+- **[WhiteShadow-MD Bot](https://github.com/cnw-db/WhiteShadow-MD)** - WhatsApp bot with Sinhala movie search & more.
 
 ---
 
@@ -36,8 +34,7 @@
 
 ## 📫 Contact Me
 - WhatsApp: 0704896880  
-- Email: whiteshadow2008cn@gmail.com  
-- TikTok Booster: @WhiteShadow  
+- Email: whiteshadow2008cn@gmail.com   
 
 ---
 
