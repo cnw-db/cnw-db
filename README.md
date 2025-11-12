@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Chamod (whiteshadow)
 
-<!--
-**cnw-db/cnw-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 **Anime & Tech Enthusiast | WhatsApp Bot Developer | Web Developer**  
+✨ Lover of movies, anime, and AI projects  
+💻 Always coding, always learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Node.js, Python, HTML, CSS  
+- **Frameworks:** Express.js, React  
+- **Bot Development:** Baileys, whatsapp-web.js  
+- **Tools & APIs:** Axios, MongoDB, Render, GitHub Actions  
+
+---
+
+## 🚀 Projects
+- **[WhiteShadow-MD Bot](https://github.com/cnw-db/WhiteShadow-MD)** - WhatsApp bot with Sinhala movie search & TikTok booster  
+- **[VVIP Movie Hub](https://github.com/cnw-db/VVIP-Movie-Hub)** - Full-featured movie & TV series portal  
+- **[Gemini AI Assistant](https://github.com/cnw-db/Gemini-AI-Assistant)** - GPT API powered AI assistant  
+
+---
+
+## 🌸 Anime Vibes ✨
+![Anime](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
+
+> “Life is better with anime, code & coffee ☕💻🎥”
+
+---
+
+## 📊 GitHub Stats
+![Chamod's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnw-db&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cnw-db&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+- WhatsApp: 0704896880  
+- Email: whiteshadow2008cn@gmail.com  
+- TikTok Booster: @WhiteShadow  
+
+---
+
+✨ Let’s build something awesome together! ✨
